@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
       <div className="bg-white p-8 rounded-lg shadow-md text-center">
-        <h1 className="text-4xl font-bold mb-4">Vite + React</h1>
+        <h1 className="text-4xl font-bold mb-4">Hello World</h1>
         <div className="mb-4">
           <button
             className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
