@@ -16,7 +16,7 @@ function App() {
           </button>
         </div>
         <p className="text-gray-600">
-          Edit <code className="font-mono bg-gray-100 p-1 rounded">src/App.tsx</code> and save to test HMR
+          Edit <code className="font-mono bg-gray-100 p-1 rounded">src/App.tsx</code> and save to test
         </p>
       </div>
     </div>
